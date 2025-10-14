@@ -140,7 +140,7 @@ async function loadPlayerProfile() {
     const headImg = document.createElement("img");
     headImg.src = `img/${user.Gamertag}/${skin.HeadName}.png`;
     headImg.className = "head-square";
-    headImg.title = `${skin.HeadName} (${skin.HeadDate})`;
+    headImg.title = `${skin.HeadDate}`;
 
     // Hover updates main display
     headImg.addEventListener("mouseenter", () => {
