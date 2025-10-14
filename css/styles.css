@@ -1,0 +1,157 @@
+/* === Theme Variables === */
+:root {
+  --bg-color: #ffffff;
+  --text-color: #333333;
+  --card-bg: #fff;
+  --card-border: #ddd;
+  --tag-bg: #eee;
+  --tag-color: #333;
+}
+
+body.dark-mode {
+  --bg-color: #181818;
+  --text-color: #eee;
+  --card-bg: #222;
+  --card-border: #555;
+  --tag-bg: #333;
+  --tag-color: #ddd;
+}
+
+/* === Global Styles === */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+h1, h2 {
+  color: var(--text-color);
+}
+
+/* === Grid / Skin Cards === */
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 15px;
+}
+
+.skin-card {
+  border: 1px solid var(--card-border);
+  border-radius: 8px;
+  padding: 5px;
+  text-align: center;
+  transition: transform 0.2s, background 0.2s, border-color 0.2s;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  background: var(--card-bg);
+  overflow: hidden; /* ensures border clips the content */
+}
+
+.skin-card:hover {
+  transform: scale(1.05);
+}
+
+.skin-card img {
+  width: 120px; /* fixed width */
+  height: 174px; /* maintain 622:897 ratio */
+  object-fit: cover; /* preserves aspect ratio */
+  display: block;
+  margin-bottom: 5px;
+  border-radius: 4px;
+  box-shadow: inset 0 0 0 0 transparent;
+}
+
+.skin-card p {
+  margin: 3px 0 0 0; /* small top margin, no bottom margin */
+  padding: 0;
+  font-size: 12px;
+  color: var(--text-color);
+}
+
+.gamertag-link {
+  text-decoration: none;
+  color: #3498db;
+  font-weight: bold;
+  display: block;
+}
+
+.tags {
+  font-size: 12px;
+  color: var(--text-color);
+}
+
+/* === Heads / Player Profile === */
+.head-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-bottom: 20px;
+}
+
+.head-square {
+  width: 50px;
+  height: 50px;
+  border: 1px solid var(--card-border);
+  border-radius: 4px;
+  cursor: pointer;
+  object-fit: cover;
+}
+
+.head-square:hover {
+  transform: scale(1.2);
+  transition: transform 0.15s;
+}
+
+/* Main Skin Container */
+.main-skin-container {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.skin-box {
+  position: relative;
+}
+
+.skin-box img {
+  width: 200px;
+  height: 290px; /* scaled from 622x897 */
+  object-fit: cover;
+  display: block;
+  margin-bottom: 10px;
+  border: 1px solid var(--card-border);
+  border-radius: 8px;
+}
+
+/* Tag container */
+.tag-box {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  max-width: 200px;
+}
+
+.tag-box span {
+  background-color: var(--tag-bg);
+  border-radius: 4px;
+  padding: 3px 6px;
+  font-size: 12px;
+}
+
+.tag-link {
+  background-color: var(--tag-bg);
+  border-radius: 4px;
+  padding: 3px 6px;
+  font-size: 12px;
+  text-decoration: none;
+  color: var(--tag-color);
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.tag-link:hover {
+  background-color: #555;
+  color: #fff;
+}
