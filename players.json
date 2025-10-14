@@ -1416,6 +1416,32 @@
           "Tags": ["geometry.DrWho1.Snowman"]
         }
       ]
+    },
+    {
+      "Gamertag": "Splodg3r",
+      "Skins": [
+        {
+          "HeadName": "Head1",
+          "HeadDate": "October 14, 2025",
+          "SkinName": "Skin1",
+          "CapeName": "Cape1",
+          "Tags": ["Hive Style", "Custom Slim"]
+        },
+        {
+          "HeadName": "Head2",
+          "HeadDate": "June 3, 2022",
+          "SkinName": "Skin2",
+          "CapeName": "Cape2",
+          "Tags": ["Hive Style", "Custom Slim"]
+        },
+        {
+          "HeadName": "Head3",
+          "HeadDate": "May 1, 2022",
+          "SkinName": "Skin3",
+          "CapeName": "Cape3",
+          "Tags": ["Hive Style", "Custom Slim"]
+        }
+      ]
     }
   ]
 }
