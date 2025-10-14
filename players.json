@@ -494,7 +494,7 @@
       ]
     },
     {
-      "Gamertag": "Ahlizah", //Alixr33
+      "Gamertag": "Ahlizah",
       "Skins": [
         {
           "HeadName": "Head1",
@@ -795,7 +795,7 @@
           "HeadDate": "June 20, 2022",
           "SkinName": "Skin43",
           "CapeName": "Cape43",
-          "Tags": ["Mario", "geometry.FINALFANTASYXVSkinPack.Cindy"]
+          "Tags": ["Nintendo", "geometry.FINALFANTASYXVSkinPack.Cindy"]
         }
       ]
     },
@@ -882,6 +882,13 @@
           "HeadDate": "October 14, 2025",
           "SkinName": "Skin10",
           "CapeName": "Cape10",
+          "Tags": ["Custom Slim"]
+        },
+        {
+          "HeadName": "Head11",
+          "HeadDate": "October 9, 2025",
+          "SkinName": "Skin11",
+          "CapeName": "Cape11",
           "Tags": ["Custom Slim"]
         }
       ]
@@ -1304,6 +1311,7 @@
     },
     {
       "Gamertag": "Pxison Bxnny",
+      "Xuid": "2535409842676261",
       "Skins": [
         {
           "HeadName": "Head1",
@@ -1339,6 +1347,13 @@
           "SkinName": "Skin5",
           "CapeName": "Cape5",
           "Tags": ["Purple", "Black", "geometry.MiniGameHeroes.MiniGameHeroesBatTumbler"]
+        },
+        {
+          "HeadName": "Head6",
+          "HeadDate": "May 16, 2022",
+          "SkinName": "Skin6",
+          "CapeName": "Cape6",
+          "Tags": ["Pink", "geometry.ChineseMythology.LadyEarthFlow"]
         }
       ]
     },
@@ -1351,6 +1366,42 @@
           "SkinName": "Skin1",
           "CapeName": "Cape1",
           "Tags": ["geometry.BeachPartySkinPack.ClassyBeachwear"]
+        }
+      ]
+    },
+    {
+      "Gamertag": "Fowben",
+      "Skins": [
+        {
+          "HeadName": "Head1",
+          "HeadDate": "July 10, 2025",
+          "SkinName": "Skin1",
+          "CapeName": "Cape1",
+          "Tags": ["Hive Style", "Custom Slim"]
+        }
+      ]
+    },
+    {
+      "Gamertag": "Ourau",
+      "Skins": [
+        {
+          "HeadName": "Head1",
+          "HeadDate": "September 4, 2022",
+          "SkinName": "Skin1",
+          "CapeName": "Cape1",
+          "Tags": ["Nintendo", "geometry.ChineseMythology.SnakeCelestialGoddessNuwa"]
+        }
+      ]
+    },
+    {
+      "Gamertag": "II sophh II",
+      "Skins": [
+        {
+          "HeadName": "Head1",
+          "HeadDate": "October 13, 2025",
+          "SkinName": "Skin1",
+          "CapeName": "Cape1",
+          "Tags": ["Pink", "Crown", "geometry.HolidaySkinPack2015.Tomte"]
         }
       ]
     }
