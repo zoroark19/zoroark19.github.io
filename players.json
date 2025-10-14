@@ -1404,6 +1404,18 @@
           "Tags": ["Pink", "Crown", "geometry.HolidaySkinPack2015.Tomte"]
         }
       ]
+    },
+    {
+      "Gamertag": "AexJi",
+      "Skins": [
+        {
+          "HeadName": "Head1",
+          "HeadDate": "November 24, 2023",
+          "SkinName": "Skin1",
+          "CapeName": "Cape1",
+          "Tags": ["geometry.DrWho1.Snowman"]
+        }
+      ]
     }
   ]
 }
