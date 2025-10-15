@@ -1406,6 +1406,68 @@
       ]
     },
     {
+      "Gamertag": "Unknown",
+      "Skins": [
+        {
+          "HeadName": "Head1",
+          "HeadDate": "March 19, 2024",
+          "SkinName": "Skin1",
+          "CapeName": "Cape1",
+          "Tags": ["Halloween", "Custom Slim"]
+        }
+      ]
+    },
+    {
+      "Gamertag": "RGbabyy24",
+      "Skins": [
+        {
+          "HeadName": "Head1",
+          "HeadDate": "November 24, 2023",
+          "SkinName": "Skin1",
+          "CapeName": "Cape1",
+          "Tags": ["Halloween", "geometry.StevenUniverse.Peridot"]
+        }
+      ]
+    },
+    {
+      "Gamertag": "Cactus The Fox",
+      "Skins": [
+        {
+          "HeadName": "Head1",
+          "HeadDate": "October 14, 2025",
+          "SkinName": "Skin1",
+          "CapeName": "Cape1",
+          "Tags": ["Hive Style", "Custom Slim"]
+        },
+        {
+          "HeadName": "Head2",
+          "HeadDate": "March 29, 2024",
+          "SkinName": "Skin2",
+          "CapeName": "Cape2",
+          "Tags": ["Hive Style", "geometry.PiratesOfTheCaribbean.Davyjones"]
+        }
+      ]
+    },
+    {
+      "Gamertag": "veovia",
+      "Skins": [
+        {
+          "HeadName": "Head1",
+          "HeadDate": "July 11, 2025",
+          "SkinName": "Skin1",
+          "CapeName": "Cape1",
+          "Tags": ["Custom Slim"]
+        },
+        {
+          "HeadName": "Head2",
+          "HeadDate": "December 1, 2023",
+          "SkinName": "Skin2",
+          "CapeName": "Cape2",
+          "Tags": ["Custom Slim"]
+        }
+      ]
+    },
+    {
       "Gamertag": "AexJi",
       "Skins": [
         {
@@ -1414,6 +1476,51 @@
           "SkinName": "Skin1",
           "CapeName": "Cape1",
           "Tags": ["geometry.DrWho1.Snowman"]
+        }
+      ]
+    },
+    {
+      "Gamertag": "Th3Serum",
+      "Skins": [
+        {
+          "HeadName": "Head1",
+          "HeadDate": "September 21, 2023",
+          "SkinName": "Skin1",
+          "CapeName": "Cape1",
+          "Tags": ["Hive Style", "Custom Slim"]
+        },
+        {
+          "HeadName": "Head2",
+          "HeadDate": "October 21, 2023",
+          "SkinName": "Skin2",
+          "CapeName": "Cape2",
+          "Tags": ["Hive Style", "Halloween", "Custom Slim"]
+        },
+        {
+          "HeadName": "Head3",
+          "HeadDate": "November 24, 2023",
+          "SkinName": "Skin3",
+          "CapeName": "Cape3",
+          "Tags": ["Hive Style", "Christmas", "Custom Slim"]
+        },
+        {
+          "HeadName": "Head4",
+          "HeadDate": "November 24, 2023",
+          "SkinName": "Skin4",
+          "CapeName": "Cape4",
+          "Tags": ["Hive Style", "Tombstone", "geometry.MarioBrothers.Peach"]
+        }
+      ]
+    },
+    {
+      "Gamertag": "Colyl0R",
+      "Skins": [
+        {
+          "HeadName": "Head1",
+          "HeadDate": "May 19, 2023",
+          "SkinName": "Skin1",
+          "CapeName": "Cape1",
+          "Tags": ["Hive Style", "Custom Slim"]
         }
       ]
     },
@@ -1439,6 +1546,60 @@
           "HeadDate": "May 1, 2022",
           "SkinName": "Skin3",
           "CapeName": "Cape3",
+          "Tags": ["Hive Style", "Custom Slim"]
+        }
+      ]
+    },
+    {
+      "Gamertag": "Zanelees",
+      "Skins": [
+        {
+          "HeadName": "Head1",
+          "HeadDate": "June 3, 2022",
+          "SkinName": "Skin1",
+          "CapeName": "Cape1",
+          "Tags": ["Custom Slim"]
+        },
+        {
+          "HeadName": "Head2",
+          "HeadDate": "October 7, 2022",
+          "SkinName": "Skin2",
+          "CapeName": "Cape2",
+          "Tags": ["Hive Style", "Custom Slim"]
+        },
+        {
+          "HeadName": "Head3",
+          "HeadDate": "May 20, 2023",
+          "SkinName": "Skin3",
+          "CapeName": "Cape3",
+          "Tags": ["Custom Slim"]
+        },
+        {
+          "HeadName": "Head4",
+          "HeadDate": "June 30, 2023",
+          "SkinName": "Skin4",
+          "CapeName": "Cape4",
+          "Tags": ["Custom Slim"]
+        },
+        {
+          "HeadName": "Head5",
+          "HeadDate": "May 17, 2025",
+          "SkinName": "Skin5",
+          "CapeName": "Cape5",
+          "Tags": ["Custom Slim"]
+        },
+        {
+          "HeadName": "Head6",
+          "HeadDate": "July 11, 2025",
+          "SkinName": "Skin6",
+          "CapeName": "Cape6",
+          "Tags": ["Custom Slim"]
+        },
+        {
+          "HeadName": "Head7",
+          "HeadDate": "September 23, 2022",
+          "SkinName": "Skin7",
+          "CapeName": "Cape7",
           "Tags": ["Hive Style", "Custom Slim"]
         }
       ]
