@@ -8,21 +8,28 @@
           "HeadDate": "February 25, 2024",
           "SkinName": "Skin1",
           "CapeName": "Cape1",
-          "Tags": ["Lunar New Year", "geometry.ChineseMythology.DragonDancerSuitChineseDragonHead"]
+          "Tags": ["Hive Style", "Lunar New Year", "geometry.ChineseMythology.DragonDancerSuitChineseDragonHead"]
         },
         {
           "HeadName": "Head2",
           "HeadDate": "November 5, 2023",
           "SkinName": "Skin2",
           "CapeName": "Cape2",
-          "Tags": ["Summer", "Custom"]
+          "Tags": ["Hive Style", "Summer", "Custom"]
         },
         {
           "HeadName": "Head3",
           "HeadDate": "July 11, 2025",
           "SkinName": "Skin3",
           "CapeName": "Cape3",
-          "Tags": ["Halloween", "Custom"]
+          "Tags": ["Hive Style", "Halloween", "Custom"]
+        },
+        {
+          "HeadName": "Head4",
+          "HeadDate": "October 16, 2025",
+          "SkinName": "Skin4",
+          "CapeName": "Cape4",
+          "Tags": ["Hive Style", "Fall", "Custom"]
         }
       ]
     },
@@ -1077,6 +1084,13 @@
           "SkinName": "Skin1",
           "CapeName": "Cape1",
           "Tags": ["geometry.MiniGameHeroes.MiniGameHeroesCatBattler"]
+        },
+        {
+          "HeadName": "Head2",
+          "HeadDate": "‎June ‎12, ‎2024",
+          "SkinName": "Skin2",
+          "CapeName": "Cape2",
+          "Tags": ["geometry.PiratesOfTheCaribbean.Cursedcaptainbarbossa"]
         }
       ]
     },
@@ -1430,6 +1444,18 @@
       ]
     },
     {
+      "Gamertag": "BehBooo",
+      "Skins": [
+        {
+          "HeadName": "Head1",
+          "HeadDate": "October 16, 2025",
+          "SkinName": "Skin1",
+          "CapeName": "Cape1",
+          "Tags": ["Hive Style", "geometry.NorseMythology.Ratatoskr"]
+        }
+      ]
+    },
+    {
       "Gamertag": "Cactus The Fox",
       "Skins": [
         {
@@ -1437,7 +1463,7 @@
           "HeadDate": "October 14, 2025",
           "SkinName": "Skin1",
           "CapeName": "Cape1",
-          "Tags": ["Hive Style", "Custom Slim"]
+          "Tags": ["Hive Style", "Fall", "Custom Slim"]
         },
         {
           "HeadName": "Head2",
