@@ -1050,32 +1050,6 @@
       ]
     },
     {
-      "Gamertag": "x8rh",
-      "Skins": [
-        {
-          "HeadName": "Head1",
-          "HeadDate": "March 8, 2024",
-          "SkinName": "Skin1",
-          "CapeName": "Cape1",
-          "Tags": ["Custom Slim"]
-        },
-        {
-          "HeadName": "Head2",
-          "HeadDate": "June 29, 2024",
-          "SkinName": "Skin2",
-          "CapeName": "Cape2",
-          "Tags": ["Custom Slim"]
-        },
-        {
-          "HeadName": "Head3",
-          "HeadDate": "June 11, 2024",
-          "SkinName": "Skin3",
-          "CapeName": "Cape3",
-          "Tags": ["Custom"]
-        }
-      ]
-    },
-    {
       "Gamertag": "x74h",
       "Skins": [
         {
@@ -1632,4 +1606,5 @@
     }
   ]
 }
+
 
